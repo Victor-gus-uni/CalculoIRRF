@@ -21,7 +21,7 @@ namespace CalculoIRRF
             }
             else if (SalarioBruto <= 2793.88m)
             {
-                INSS = (SalarioBruto * 0.12m) - 22.77m;
+                INSS = (SalarioBruto * 0.09m) - 22.77m;
             }
             else if (SalarioBruto <= 4190.84m)
             {
@@ -29,7 +29,7 @@ namespace CalculoIRRF
             }
             else if (SalarioBruto <= 8157.41m)
             {
-                INSS = (SalarioBruto * 0.12m) - 190.40m;
+                INSS = (SalarioBruto * 0.14m) - 190.40m;
             }
             else
             {
